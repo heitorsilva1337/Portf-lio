@@ -1,0 +1,53 @@
+body, header nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: black;
+  color: blue;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+  font-variation-settings: "wdth" 100;
+}
+
+.navegacao {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #111;
+  padding: 20px;
+}
+
+.navegacao h1,
+header nav ul li a {
+  color: white;
+}
+
+.navegacao h1 {
+  margin: 0;
+}
+
+header nav ul {
+  list-style: none;
+}
+
+header nav ul li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+header nav ul li a {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+p {
+  margin: 20px;
+}
+
+h3{
+    margin: 20px;
+}
