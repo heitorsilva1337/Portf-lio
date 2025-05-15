@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 
 * {
   margin: 0;
@@ -15,7 +15,7 @@ body {
   padding: 0;
 }
 
-/* Barra de Navegação */
+
 .navegacao {
   width: 100%;
   display: flex;
@@ -53,14 +53,14 @@ header nav ul li a:hover {
   transform: scale(1.05);
 }
 
-/* Container principal */
+
 main {
   max-width: 960px;
   margin: 0 auto;
   padding: 40px 20px;
 }
 
-/* Seções */
+
 section {
   margin-bottom: 60px;
   background-color: rgba(255, 255, 255, 0.03);
