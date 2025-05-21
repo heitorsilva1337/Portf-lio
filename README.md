@@ -1,5 +1,5 @@
 # Portfólio
-Porftfólio de Heitor Silva 
+Este projeto tem como objetivo de apresentar um pouco sobre mim, além de um pouco dos projetos que participei
 
 ## Tecnologias utilizadas
 - HTML
